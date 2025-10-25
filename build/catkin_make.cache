@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/orangepi/test/devel -DCMAKE_INSTALL_PREFIX=/home/orangepi/test/install -G Unix Makefiles

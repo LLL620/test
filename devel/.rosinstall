@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/orangepi/test/devel/setup.sh
